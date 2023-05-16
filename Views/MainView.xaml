@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainView" Height="450" Width="800">
     <Grid>
-        
+        <StackPanel>
+            <TextBlock Text="DCTest" FontSize="32" />
+        </StackPanel>
     </Grid>
 </Window>
